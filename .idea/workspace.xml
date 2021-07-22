@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6915b7d3-78b7-4c8e-9bbe-8674c6282cbb" name="Default" comment="YiiComposer">
+    <list default="true" id="6915b7d3-78b7-4c8e-9bbe-8674c6282cbb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
     </list>
@@ -23,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
-              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -34,6 +34,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="memchik &lt;memchiks@inbox.ru&gt;" />
         <option value="MEMOSIAL" />
       </list>
     </option>
@@ -181,7 +182,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626967571668</updated>
-      <workItem from="1626967573398" duration="663000" />
+      <workItem from="1626967573398" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="YiiComposer">
       <created>1626967742252</created>
@@ -197,11 +198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1626968149089</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="YiiComposerUpdate">
+      <created>1626968267806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626968267806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="663000" />
+    <option name="totallyTimeSpent" value="770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1602" height="871" extended-state="0" />
@@ -234,7 +242,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="YiiComposer" />
-    <option name="LAST_COMMIT_MESSAGE" value="YiiComposer" />
+    <MESSAGE value="YiiComposerUpdate" />
+    <option name="LAST_COMMIT_MESSAGE" value="YiiComposerUpdate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -244,7 +253,7 @@
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
-          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding />
         </state>
       </provider>
