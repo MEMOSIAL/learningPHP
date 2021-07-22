@@ -1,11 +1,11 @@
 {
   "name": "yellower",
-  "description": "This is test commit on GitHub YiiFramework",
+  "description": "yellower",
   "minimum-stability": "beta",
   "license": "proprietary",
   "authors": [
     {
-      "name": "MEMOSIAL",
+      "name": "memchiks",
       "email": "memchiks@inbox.ru"
     }
   ]
