@@ -8,5 +8,8 @@
       "name": "memchiks",
       "email": "memchiks@inbox.ru"
     }
-  ]
+  ],
+  "require":{
+    "2amigos/yii2-app-template":"1.0.9"
+  }
 }
